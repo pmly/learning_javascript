@@ -1,0 +1,37 @@
+The console is where output goes.
+
+	console.log();
+	outputs(logs) things to the console.
+
+Semicolons are not always needed but it is good practice to add them at the end of statements anyways.
+
+There are 4 main data types
+	Strings
+	Numbers
+	Booleans
+	Null
+
+A declaration of a data type is called an instance
+
+Every instance has properties
+
+Strings have a property of length
+
+	"string".length;
+	returns the length of the string.
+
+Every instance also has methods(member functions basically)
+
+You can also call methods without an instance by using a library
+
+There are many libraries that have references
+
+When we call a function, we evaluate its arguments
+
+// single line comment
+
+/*
+
+multiline comment
+
+*/
